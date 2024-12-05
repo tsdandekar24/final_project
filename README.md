@@ -5,4 +5,6 @@
 ## Techniques Used:
 ### We have preprocessed the dataset to be more readable. Due to the majority group (no) overwhelming the minority group (yes), we will oversample the dataset to get more accurate read on the data. The dataset predicts binary values (yes and no), so some ways to predict the data includes KNN and logistic regression.
 
+
+# Database for PostgreSQL:
 ![Database](final_project_csci1070.jpeg)
